@@ -1,5 +1,5 @@
 # Laboratory
-Attempt to explore a bunch of applied math/quantitative fields from first principles and essentials.
+My attempt to explore a bunch of applied math/quantitative fields from first principles, essentials and code.
 Over time I want to add content from different fields: 
   * Machine Learning - Decision Trees, Neural Networks
   * Mathematics - e.g. Linear Algebra, SVD
